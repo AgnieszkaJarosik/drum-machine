@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/drum-machine/static/css/main.a3ae7408.chunk.css",
+    "main.js": "/drum-machine/static/js/main.1dc8671b.chunk.js",
+    "main.js.map": "/drum-machine/static/js/main.1dc8671b.chunk.js.map",
+    "runtime-main.js": "/drum-machine/static/js/runtime-main.5e3e1888.js",
+    "runtime-main.js.map": "/drum-machine/static/js/runtime-main.5e3e1888.js.map",
+    "static/js/2.98ee75cb.chunk.js": "/drum-machine/static/js/2.98ee75cb.chunk.js",
+    "static/js/2.98ee75cb.chunk.js.map": "/drum-machine/static/js/2.98ee75cb.chunk.js.map",
+    "index.html": "/drum-machine/index.html",
+    "precache-manifest.d963ef8bd79aa9d9ae8b424be852435b.js": "/drum-machine/precache-manifest.d963ef8bd79aa9d9ae8b424be852435b.js",
+    "service-worker.js": "/drum-machine/service-worker.js",
+    "static/css/main.a3ae7408.chunk.css.map": "/drum-machine/static/css/main.a3ae7408.chunk.css.map",
+    "static/media/App.css": "/drum-machine/static/media/black_lozenge.c3a14079.png",
+    "static/media/boom.wav": "/drum-machine/static/media/boom.a5257aef.wav",
+    "static/media/clap.wav": "/drum-machine/static/media/clap.a306730a.wav",
+    "static/media/electronic-ride.wav": "/drum-machine/static/media/electronic-ride.a7f7fe83.wav",
+    "static/media/harp.wav": "/drum-machine/static/media/harp.863da6e2.wav",
+    "static/media/hi-hats.wav": "/drum-machine/static/media/hi-hats.8a342bd7.wav",
+    "static/media/kick.wav": "/drum-machine/static/media/kick.987fa9f0.wav",
+    "static/media/ride-bell.wav": "/drum-machine/static/media/ride-bell.fa7ac356.wav",
+    "static/media/snare.wav": "/drum-machine/static/media/snare.bc394356.wav",
+    "static/media/tom.wav": "/drum-machine/static/media/tom.5fa031fa.wav"
+  }
+}
