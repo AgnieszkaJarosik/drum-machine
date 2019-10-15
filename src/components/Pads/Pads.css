@@ -1,0 +1,21 @@
+#pads-container {
+  min-width: 55%;
+  margin-left: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  flex-grow: 1;
+  justify-content: flex-start;
+  align-items: center;
+  align-content: space-around;
+  color:  #1a1a1a;
+}
+
+@media screen and (max-width:890px) {
+  #pads-container {
+    margin: .3rem;
+    justify-content: center;
+    align-content: center;
+    flex-grow: 0;
+  }
+}
+

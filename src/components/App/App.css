@@ -1,0 +1,47 @@
+/* Background pattern from Toptal Subtle Patterns */
+
+:root {
+  font-size: 16px;
+}
+
+.App {
+  background-image: url('../../black_lozenge.png');
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100vh;
+}
+
+#drum-machine {
+  background-color: #f2f2f2;
+  width: 60%;
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: space-around;
+}
+
+@media screen and (min-width:600px) 
+        and (max-width:890px) {
+ :root {
+    font-size: 12px;
+  }
+  #drum-machine {
+    flex-direction: column;
+    min-height: 70vh;
+  }
+}
+
+@media screen and (max-width:600px) {
+ :root {
+    font-size: 8px;
+  }
+  #drum-machine {
+    flex-direction: column;
+    align-content: center;
+  }
+}
+      
+

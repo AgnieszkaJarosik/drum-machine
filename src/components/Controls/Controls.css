@@ -1,0 +1,15 @@
+#controls-container {
+  min-width: 35%;
+  display: flex;
+  justify-content: right;
+}
+
+@media screen and (max-width:890px) {
+  #controls-container {
+    min-width: 60%;
+    height: 2vh;
+    justify-content: center;
+    margin: 2rem;
+  }
+}
+
